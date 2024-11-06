@@ -1,5 +1,5 @@
 # how to start docker env
-任意の場所に移動
+任意の場所に移動してクローン
 
 
 cd benchMARL_docker
