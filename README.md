@@ -10,6 +10,9 @@ mkdir src
 
 src下に各リポジトリをクローン
 
+git@github.com:proroklab/VectorizedMultiAgentSimulator.git
+git@github.com:facebookresearch/BenchMARL.git
+
 
 xhost+
 
