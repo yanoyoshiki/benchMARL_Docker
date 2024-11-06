@@ -24,6 +24,9 @@ sh build.sh
 
 sh run.sh
 
+#docker内
+
+
 pip install -e /root/VectorizedMultiAgentSimulator
 
 pip install torchrl
