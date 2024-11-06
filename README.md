@@ -1,5 +1,10 @@
 # how to start docker env
-git submodule update --init --recursive
+任意の場所に移動
+cd benchMARL_docker
+
+mkdir src
+src下に各リポジトリをクローン
+
 
 xhost+
 
