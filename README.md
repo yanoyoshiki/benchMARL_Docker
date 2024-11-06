@@ -3,6 +3,8 @@ git submodule update --init --recursive
 
 xhost+
 
+cd ##your directory##/docker
+
 sh build.sh
 
 sh run.sh
