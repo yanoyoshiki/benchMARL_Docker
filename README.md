@@ -1,8 +1,13 @@
 # how to start docker env
 任意の場所に移動
+
+
 cd benchMARL_docker
 
+
 mkdir src
+
+
 src下に各リポジトリをクローン
 
 
