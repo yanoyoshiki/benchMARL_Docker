@@ -1,0 +1,9 @@
+[submodule "src/VectorizedMultiAgentSimulator"]
+  path = src/VectorizedMultiAgentSimulator
+  url = git@github.com:proroklab/VectorizedMultiAgentSimulator.git
+
+
+
+[submodule "src/BenchMARL"]
+  path = src/BenchMARL
+  url = git@github.com:facebookresearch/BenchMARL.git
